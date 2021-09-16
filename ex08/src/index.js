@@ -10,7 +10,7 @@ function main() {
   return {
     myX,
     myY,
-    myZ,
+    myZ
   };
 }
 console.log(main());
